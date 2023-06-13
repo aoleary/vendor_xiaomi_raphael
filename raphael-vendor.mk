@@ -1272,7 +1272,6 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     liblbs_core \
     vendor.qti.hardware.fm@1.0 \
-    IFAAService \
     MotoSignatureApp \
     MotoDolbyDax3 \
     MotorolaSettingsProvider \
